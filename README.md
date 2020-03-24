@@ -1,2 +1,2 @@
 # UnichatRooms
-An app that connect students and proffesors in chatrooms with an easiest and simplest way
+An app that connect students and proffesors in chatrooms with most easiest and simplest way
